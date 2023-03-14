@@ -20,6 +20,7 @@ public class Homework1 {
         int sum = 0;
         int fact = 1;
 
+
         for (int i = 0; i<= number; i++) {
             sum += i;
         }
